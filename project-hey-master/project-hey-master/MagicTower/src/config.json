@@ -1,0 +1,184 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.png",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "tile",
+			"path": "./assets/images/tile.png",
+			"width": 160,
+			"height": 3200
+		},
+		{
+			"name": "player",
+			"path": "./assets/images/warrior.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "door",
+			"path": "./assets/images/door.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "items",
+			"path": "./assets/images/items.png",
+			"width": 128,
+			"height": 480
+		}
+	],
+	"fonts": [
+		{
+			"name": "Zelda",
+			"path": "./assets/fonts/Zelda.otf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "tt",
+			"path": "./assets/sounds/TitleScreen.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "play",
+			"path": "./assets/sounds/GamePlay.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "over",
+			"path": "./assets/sounds/GameOver.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "win",
+			"path": "./assets/sounds/Victory.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battle-start",
+			"path": "./assets/sounds/music/battle-start.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "battle-loop",
+			"path": "./assets/sounds/music/battle-loop.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battle-victory",
+			"path": "./assets/sounds/music/battle-victory.ogg",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "route",
+			"path": "./assets/sounds/music/route.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battle-damage",
+			"path": "./assets/sounds/effects/battle-damage.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "battle-run",
+			"path": "./assets/sounds/effects/battle-run.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "experience-full",
+			"path": "./assets/sounds/effects/experience-full.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "experience-gain",
+			"path": "./assets/sounds/effects/experience-gain.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "heal",
+			"path": "./assets/sounds/effects/heal.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "low-health",
+			"path": "./assets/sounds/effects/low-health.mp3",
+			"size": 1,
+			"volume": 0.05,
+			"loop": true
+		},
+		{
+			"name": "menu-open",
+			"path": "./assets/sounds/effects/menu-open.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "player-bump",
+			"path": "./assets/sounds/effects/player-bump.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "pokemon-faint",
+			"path": "./assets/sounds/effects/pokemon-faint.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-choice",
+			"path": "./assets/sounds/effects/selection-choice.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-move",
+			"path": "./assets/sounds/effects/selection-move.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "charmander",
+			"path": "./assets/sounds/pokemon/CHARMANDER.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "bulbasaur",
+			"path": "./assets/sounds/pokemon/BULBASAUR.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "squirtle",
+			"path": "./assets/sounds/pokemon/SQUIRTLE.wav",
+			"size": 1,
+			"volume": 0.2
+		}
+		
+	]
+}
+
